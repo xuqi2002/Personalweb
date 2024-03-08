@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-[My CV](Downloads/rstudio-export-9/xuqi.pdf)
+[My CV](xuqi.pdf)
