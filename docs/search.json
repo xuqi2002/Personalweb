@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "You can email me at xu.qi@mail.utoronto.ca"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my site",
+    "section": "",
+    "text": "I am a third year student in University of Toronto, major in Chemistry and minor in Statistics and Environmental Studies."
+  }
+]
